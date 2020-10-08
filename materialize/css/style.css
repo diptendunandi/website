@@ -1,0 +1,26 @@
+.nav-wrapper{
+    background-color:#1a1a1a;
+    font-family: 'Peddana', serif;
+    color:wheat;
+}
+.on{
+    font-size: 69px;
+}
+
+.carousel.carousel-slider.indicators.indicator-item.active{
+    background-color:wheat;
+}
+.move{
+    margin-top:60px ;
+    margin-bottom: 19px;
+}
+.parallax-container{
+    min-height: 280px;
+    height: auto;
+}
+.footer-one{
+    background-color: #1a1a1a;
+}
+.footer-two{
+    background-color: black;
+}
